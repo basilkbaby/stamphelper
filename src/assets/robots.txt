@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ukstamphelper.co.uk/sitemap.xml
